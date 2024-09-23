@@ -1,0 +1,20 @@
+.headerBackground {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(102deg, rgb(2, 0, 36) 0%, rgb(52, 189, 215) 32%, rgba(198, 0, 255, 0.265625) 86%);
+  padding: 10px; /* for better spacing */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+}
+
+.headerBackground a {
+  color: white;
+  text-decoration: none; 
+  font-weight: bold; 
+  transition: color 0.3s ease; 
+}
+
+.headerBackground a:hover {
+  color: #ffd700; 
+}
+
+
+/*# sourceMappingURL=header.css.map */
