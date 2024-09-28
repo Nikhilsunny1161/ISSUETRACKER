@@ -43,3 +43,4 @@ FOllowing are the key feature i have added-:
 
  so to start with this project give command on terminal " node index.js" , so server will now live on port:8000;
    
+![issuetrackerscreenshot](https://github.com/user-attachments/assets/9f8f0d52-9768-486a-be07-9672ec6391c5)
